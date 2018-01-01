@@ -1,0 +1,19 @@
+/* pages/discovery.wxss */
+
+.page-title {
+  color: #00c1de;
+}
+
+.items  { 
+}
+.items .item {
+  background-color: #eee;
+  margin-bottom: 2px;
+  padding: 10px;
+}
+.item-music {
+}
+.item-book {
+}
+.item-radio {
+}

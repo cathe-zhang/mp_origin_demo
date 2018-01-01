@@ -1,18 +1,20 @@
-// pages/shopping/shopping.js
+// pages/discovery.js
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-  
+    text: 'this is the page data',
+    toView: 'red',
+    scrollTop: 100
   },
 
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-  
+
   },
 
   /**
@@ -62,5 +64,14 @@ Page({
    */
   onShareAppMessage: function () {
   
+  },
+
+
+
+  // 01.01 edit by cellerchan
+  buttonTap: function () {
+    this.setData({
+      scrollTop: this.data.scrollTop + 20
+    })
   }
 })

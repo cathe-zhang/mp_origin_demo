@@ -1,0 +1,12 @@
+<view class='list'>
+  <!-- 区域滚动 -->
+  <scroll-view class='items'>
+    <view class='item item-movie'>电影</view>
+    <view class='item item-music'>音乐</view>
+    <view class='item item-book'>书籍</view>
+    <view class='item item-radio'>广播</view>
+  </scroll-view>
+  <view class='button'>
+      <!-- <button bindtap='buttonTap'>点击滑动</button> -->
+  </view>
+</view>

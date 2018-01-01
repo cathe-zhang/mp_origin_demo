@@ -2,29 +2,31 @@
   "pages": [
     "pages/index/index",
     "pages/logs/logs",
-    "pages/discovery/discovery",
-    "pages/shopping/shopping",
+    "pages/books/books",
+    "pages/movies/movies",
     "pages/mine/mine"
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#00c1de",
     "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle": "black"
   },
   "tabBar": {
+    "color": "#fff",
+    "backgroundColor": "#333",
     "list": [
       {
         "pagePath": "pages/index/index",
         "text": "首页"
       },
       {
-        "pagePath": "pages/discovery/discovery",
-        "text": "发现"
+        "pagePath": "pages/books/books",
+        "text": "书籍"
       },
       {
-        "pagePath": "pages/shopping/shopping",
-        "text": "商圈"
+        "pagePath": "pages/movies/movies",
+        "text": "电影"
       },
       {
         "pagePath": "pages/mine/mine",

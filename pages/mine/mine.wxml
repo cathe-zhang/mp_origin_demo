@@ -1,4 +1,3 @@
-<!--pages/mine/mine.wxml-->
-<text>pages/mine/mine.wxml</text>
-
 <view class='container'>我的</view>
+<view>Mine</view>
+<text>正在加载</text>
