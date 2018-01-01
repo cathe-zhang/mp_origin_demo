@@ -1,0 +1,4 @@
+<!--pages/shopping/shopping.wxml-->
+<text>pages/shopping/shopping.wxml</text>
+
+<view class='container'>商圈</view>
