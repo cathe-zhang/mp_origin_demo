@@ -1,5 +1,6 @@
 {
-	"description": "项目配置文件。",
+	"projectname": "mp_origin_demo",
+	"description": "原生小程序功能测试项目",
 	"setting": {
 		"urlCheck": true,
 		"es6": true,
@@ -10,7 +11,8 @@
 	"compileType": "miniprogram",
 	"libVersion": "1.6.6",
 	"appid": "wxfc18f27dc0b3851a",
-	"projectname": "xcxTest",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,
